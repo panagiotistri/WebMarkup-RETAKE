@@ -4,6 +4,6 @@ Student number: 713094
 
 Student class: IT2B
 
-GitHub Repository: https://github.com/fred712670/web-markup_retake/
+GitHub Repository: https://github.com/panagiotistri/WebMarkup-RETAKE
 
-GitHub Pages URL: https://fred712670.github.io/web-markup_retake/
+GitHub Pages URL: https://panagiotistri.github.io/WebMarkup-RETAKE/
